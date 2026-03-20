@@ -13,7 +13,7 @@ public class Invoice {
         this.serviceId = serviceId;
     }
 
-    public int getCustomerId() {
+     public int getCustomerId() {
         return customerId;
     }
 
